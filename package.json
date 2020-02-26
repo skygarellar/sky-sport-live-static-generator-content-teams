@@ -37,6 +37,10 @@
     "@babel/preset-react": "^7.6.3",
     "babel-loader": "^8.0.6",
     "babel-plugin-require-context-hook": "^1.0.0",
-    "babel-plugin-styled-components": "^1.10.6",
+    "babel-plugin-styled-components": "^1.10.6"
+  },
+  "peerDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4"
   }
 }
