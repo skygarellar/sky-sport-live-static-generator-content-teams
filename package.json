@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/skygarellar/sky-sport-live-static-generator-content-teams#readme",
   "dependencies": {
-    "next": "^9.2.2",
+    "next": "^9.3.2",
     "aws-amplify": "^2.2.5",
     "dayjs": "^1.8.20",
     "react": "^16.12.0",
